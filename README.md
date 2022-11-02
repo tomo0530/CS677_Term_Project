@@ -1,4 +1,4 @@
-# CS677_Term_Project
+# CS677 Term Project
 
 I have been given the monthly production quantity for a certain agricultural product (let's call it Syrup) in 10 different provinces of a country between January 2015 to December 2020. This Syrup comes from a fruit. It takes a few months for the fruits to grow on the trees which bear them. It also takes a few days to extract the Syrup from the fruits after they have been harvested.
 
